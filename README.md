@@ -1,2 +1,2 @@
-# GitHub-Tuotorial
+# GitHub-Tutorial
 how GitHub works
